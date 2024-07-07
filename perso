@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Page Personnelle</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; }
+        header { background-color: #333; color: white; text-align: center; padding: 1em 0; }
+        section { margin: 20px; padding: 20px; background-color: white; }
+        footer { background-color: #333; color: white; text-align: center; padding: 1em 0; position: fixed; width: 100%; bottom: 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur ma page personnelle</h1>
+    </header>
+    <section>
+        <h2>La Corse</h2>
+        <p>La Corse est une île magnifique avec des paysages à couper le souffle.</p>
+    </section>
+    <section>
+        <h2>Randonnée</h2>
+        <p>La randonnée est une de mes passions. J'adore explorer les sentiers et découvrir de nouveaux paysages.</p>
+    </section>
+    <section>
+        <h2>Les Animaux</h2>
+        <p>Les animaux ont une place spéciale dans ma vie.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Ma Page Personnelle</p>
+    </footer>
+</body>
+</html>
